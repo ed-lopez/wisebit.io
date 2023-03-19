@@ -1,13 +1,13 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
-slug: hello-world
-date: 2022-03-06 00:00:00+0000
+title: Creating this blog...
+description: How I created this blog on my iPad Pro in 15 minutes...
+slug: ipad-blogging
+date: 2023-03-18
 image: cover.jpg
 categories:
-    - Example Category
+    - Programming
 tags:
-    - Example Tag
+    - iPad
 ---
 
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
